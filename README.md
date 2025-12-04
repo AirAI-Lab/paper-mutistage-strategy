@@ -1,7 +1,7 @@
 # paper: A Stage-Focused Strategy for Real-Time Small Crack Segmentation Leveraging High-Resolution UAV Road Imagery
 
 >authors: Chongchong Yao, Nu Wen, Zhimin Zhang, Yachao Chang, Yong Fan.
-
+![替代文本](./paperGraph/figure1.svg)
 >Code and Data of Paper: A Stage-Focused Strategy for Real-Time Small Crack Segmentation Leveraging High-Resolution UAV Road Imagery.
 We will continue to update the data and code corresponding to the paper.
 
@@ -18,7 +18,7 @@ Hardware environment for this technical experiment:
 >our Custom-Dataset data: https://pan.baidu.com/s/10X-zheumV1OMetYj8IV40Q?pwd=8888 
 
 
-![替代文本](./paperGraph/figure1.svg)
+
 
 
 
