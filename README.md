@@ -18,7 +18,7 @@ Hardware environment for this technical experiment:
 >our Custom-Dataset data: https://pan.baidu.com/s/10X-zheumV1OMetYj8IV40Q?pwd=8888 
 
 
-![替代文本](./paper_graph/1.gif)
+![替代文本](./paperGraph/figure1.svg)
 
 
 
