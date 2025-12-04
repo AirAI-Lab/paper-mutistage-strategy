@@ -20,7 +20,9 @@ Hardware environment for this technical experiment:
 >our Custom-Dataset data: https://pan.baidu.com/s/1LQK4diDD0AxcO7prMDsMFA?pwd=8888
 
 
-
+Compare our with EEM[21] and non-GA-CFAE module:
 ![替代文本](./paperGraph/figure13-----.svg)
 
+RV-RoIS:
+![替代文本](./paperGraph/figure2.svg)
 
