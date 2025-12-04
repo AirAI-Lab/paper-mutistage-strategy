@@ -15,7 +15,8 @@ Hardware environment for this technical experiment:
 > (4) Drone (DJI M300RTK, Camara: ZenmuseH20T), Its video imaging system includes a 20MP zoom camera (1/1.7" CMOS) supporting 4K (3840×2160) @30fps and 1080P@30fps, a 12MP wide-angle camera (1/2.3" CMOS) with 1080P@30fps, and a thermal camera (640×512@30Hz). All record in MP4 (H.264).<br>
 
 
->The required environment is Python 3.11.11 (all packages in the code are installed based on Python 3.11.11).
+>The required environment is Python 3.11.11 (all packages in the code are installed based on Python 3.11.11).<br>
+>The pretrained model weight in the another branch: master 
 >
 >our Custom-Dataset data: https://pan.baidu.com/s/1LQK4diDD0AxcO7prMDsMFA?pwd=8888
 >![替代文本](./paperGraph/figure6.svg)
