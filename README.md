@@ -25,4 +25,4 @@ Compare our with EEM[21] and non-GA-CFAE module:
 
 RV-RoIS:
 ![替代文本](./paperGraph/figure2.svg)
-
+![替代文本](./paperGraph/figure3.svg)
