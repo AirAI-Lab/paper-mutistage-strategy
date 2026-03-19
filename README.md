@@ -1,4 +1,4 @@
-# paper: A Stage-Focused Strategy for Real-Time Small Crack Segmentation Leveraging High-Resolution UAV Road Imagery
+# paper: VRS-3ASeg: A Cross-Spatial Commonality-Aware Framework for Road Fine-grained Object Segmentation in UAV High-Resolution Imagery
 
 > authors: Chongchong Yao, Nu Wen, Zhimin Zhang, Yachao Chang, Yong Fan.
 
