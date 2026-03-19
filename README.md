@@ -22,8 +22,6 @@ Hardware environment for this technical experiment:
 >![替代文本](./paperGraph/figure6.svg)
 
 
-# Compare our with EEM[21] and non-GA-CFAE module:
-![替代文本](./paperGraph/figure13-----.svg)
 ![替代文本](./paperGraph/figure11.svg)
 
 # RV-RoIS:
