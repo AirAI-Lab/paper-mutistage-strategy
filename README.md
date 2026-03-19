@@ -22,8 +22,8 @@ Hardware environment for this technical experiment:
 >![替代文本](./paperGraph/figure6.svg)
 
 
-![替代文本](./paperGraph/figure11.svg)
 
-![替代文本](./paperGraph/figure2.svg)
-![替代文本](./paperGraph/figure3.svg)
 ![替代文本](./paperGraph/figure7.svg)
+![替代文本](./paperGraph/figure3.svg)
+![替代文本](./paperGraph/figure2.svg)
+![替代文本](./paperGraph/figure11.svg)
