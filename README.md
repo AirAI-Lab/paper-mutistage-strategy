@@ -1,4 +1,4 @@
-# paper: VRS-3ASeg: A Cross-Spatial Commonality-Aware Framework for Road Fine-grained Object Segmentation in UAV High-Resolution Imagery
+# paper: CCVS-3ASeg: A Global-Scale Contextual Auxiliary Framework for Road Crack Semantic Segmentation in UAV Imagery
 
 > authors: Chongchong Yao, Nu Wen, Zhimin Zhang, Yachao Chang, Yong Fan.
 
