@@ -19,6 +19,9 @@ Hardware environment for this technical experiment:
 >The pretrained model weight in the another branch: master 
 >
 >our Custom-Dataset data: https://pan.baidu.com/s/1LQK4diDD0AxcO7prMDsMFA?pwd=8888
+
+![替代文本](./paperGraph/figure2.png)
+
 >![替代文本](./paperGraph/figure6.svg)
 
 
