@@ -20,6 +20,7 @@ Hardware environment for this technical experiment:
 >The pretrained model weight in the another branch: master 
 >
 >our Custom-Dataset data: https://pan.baidu.com/s/1LQK4diDD0AxcO7prMDsMFA?pwd=8888
+>public Crack Dataset: https://pan.baidu.com/s/15YEN-U0xII5Asu2j506TIA?pwd=8888 
 
 
 > Although this study has effectively optimized the utilization of high-resolution UAV data and the real-time performance of inference, there are still some limitations that can be explored in future research. Firstly, the current research mainly focuses on the segmentation of road crack small objects; future work can extend the VRS-3ASeg Framework to other object segmentation scenarios in UAV imagery, such as small obstacles, road signs, and vegetation gaps, to further verify the strategy's generalization ability. Secondly, the VRoIS module may face performance degradation in extreme complex backgrounds (e.g., severe road pollution, heavy occlusion by vegetation), and future research can optimize the distribution fitting function and RoI extraction algorithm to improve the module's robustness. Finally, the adversarial loss function in the 3ASeg module can be further improved by introducing multi-scale feature constraint terms, to enhance the module's ability to adapt to small objects of different sizes and improve the overall segmentation precision.
