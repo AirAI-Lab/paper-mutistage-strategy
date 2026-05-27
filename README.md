@@ -1,8 +1,9 @@
 # paper: CCVS-3ASeg: A Global-Scale Contextual Auxiliary Framework for Road Crack Semantic Segmentation in UAV Imagery
 
 > authors: Chongchong Yao, Nu Wen, Zhimin Zhang, Yachao Chang, Yong Fan.
-
+![替代文本](./paperGraph/figure4.png)
 ![替代文本](./paperGraph/figure3.png)
+![替代文本](./paperGraph/figure5.png)
 
 >Code and Data of Paper: A Stage-Focused Strategy for Real-Time Small Crack Segmentation Leveraging High-Resolution UAV Road Imagery.
 We will continue to update the data and code corresponding to the paper.
@@ -20,7 +21,6 @@ Hardware environment for this technical experiment:
 >
 >our Custom-Dataset data: https://pan.baidu.com/s/1LQK4diDD0AxcO7prMDsMFA?pwd=8888
 
-![替代文本](./paperGraph/figure2.png)
 
 >![替代文本](./paperGraph/figure6.svg)
 
